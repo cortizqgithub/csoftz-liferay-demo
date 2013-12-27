@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.csoftz.liferay.plugins</groupId>
+    <artifactId>mvn-parent-project</artifactId>
+    <version>6.2.0-RELEASE</version>
+    <packaging>pom</packaging>
+
+    <name>Maven Parent Project</name>
+    <url>http://www.liferay.com</url>
+
+    <properties>       
+       <liferay.app.server.deploy.dir>
+         d:\java\liferay\liferay-portal-6.2.0-ce-ga1\tomcat-7.0.42\webapps
+       </liferay.app.server.deploy.dir>
+
+       <liferay.app.server.lib.global.dir>
+         d:\java\liferay\liferay-portal-6.2.0-ce-ga1\tomcat-7.0.42\lib\ext
+       </liferay.app.server.lib.global.dir>
+
+       <liferay.app.server.portal.dir>
+         d:\java\liferay\liferay-portal-6.2.0-ce-ga1\tomcat-7.0.42\webapps\root
+       </liferay.app.server.portal.dir>
+
+       <liferay.auto.deploy.dir>
+         d:\java\liferay\liferay-portal-6.2.0-ce-ga1\deploy
+       </liferay.auto.deploy.dir>
+
+       <liferay.maven.plugin.version>
+         6.2.0-RC5
+       </liferay.maven.plugin.version>
+
+       <liferay.version>
+         6.2.0-GA1
+       </liferay.version>
+       
+       <org.springframework.version>4.0.0.RELEASE</org.springframework.version>
+       <org.slf4j-version>1.5.10</org.slf4j-version>
+
+    </properties>
+
+    <dependencies>
+       <dependency>
+         <groupId>com.liferay.portal</groupId>
+         <artifactId>portal-impl</artifactId>
+         <version>${liferay.version}</version>
+         <scope>provided</scope>
+       </dependency>
+       <dependency>
+         <groupId>com.liferay.portal</groupId>
+         <artifactId>portal-pacl</artifactId>
+         <version>${liferay.version}</version>
+         <scope>provided</scope>
+       </dependency>
+       <dependency>
+         <groupId>com.liferay.portal</groupId>
+         <artifactId>portal-service</artifactId>
+         <version>${liferay.version}</version>
+         <scope>provided</scope>
+       </dependency>
+       <dependency>
+         <groupId>com.liferay.portal</groupId>
+         <artifactId>portal-web</artifactId>
+         <version>${liferay.version}</version>
+         <type>war</type>
+         <scope>provided</scope>
+       </dependency>
+    </dependencies>
+  <modules>
+    <module>mvnspring-portlet</module>
+    <module>lf-poc-theme</module>
+  </modules>
+</project>
