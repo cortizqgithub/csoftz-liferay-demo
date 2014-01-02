@@ -6,7 +6,7 @@
         <groupId>com.csoftz.liferay.plugins</groupId>
         <version>6.2.0-RELEASE</version>
     </parent>
-	<groupId>com.csoftz.liferay.plugins.maven.spring</groupId>
+	<groupId>com.csoftz.liferay.portlet.maven.spring</groupId>
 	<artifactId>mvnspring-portlet</artifactId>
 	<packaging>war</packaging>
 	<name>Spring MVC Porlet Sample (Sample)</name>

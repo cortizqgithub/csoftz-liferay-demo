@@ -1,0 +1,11 @@
+/* Agregadores */
+#contenedor-general {
+	width: 980px;
+	margin: -15px auto;
+}
+
+/*Especiales*/
+#EC100A-contentgeneral-header-especiales .header-especiales .redes-sociales .redes-footer
+	{
+	margin: -5px 0 0 -1px;
+}

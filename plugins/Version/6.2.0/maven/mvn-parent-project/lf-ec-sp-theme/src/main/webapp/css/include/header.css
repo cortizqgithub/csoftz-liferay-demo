@@ -1,0 +1,67 @@
+#EC100A-contentgeneral-header-especiales {
+	width: 100%;
+	background: #949492;
+	height: 50px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales {
+	width: 980px;
+	margin: 0 auto;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales	#vovler-home
+	{
+	float: left;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .logo {
+	float: left;
+	margin: 2px 0 0 20px;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .titulo-especial
+	{
+	float: left;
+	margin: 2px 0 0 15px;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .titulo-especial p
+	{
+	margin: 0;
+	padding: 0;
+	line-height: 20px;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .titulo-especial .titulo1
+	{
+	font-size: 16px;
+	color: #fff;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .titulo-especial .titulo2
+	{
+	font-size: 24px;
+	color: #fff;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .redes-sociales
+	{
+	float: right;
+	width: 219px;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .redes-sociales .redes
+	{
+	background: #FFF;
+	padding: 7px 0 0 10px;
+}
+
+#EC100A-contentgeneral-header-especiales .header-especiales .redes-sociales .redes-footer img
+	{
+	margin: 0 0 0 -1px;
+}
+
+#SecEspecialesEspacio {
+	height: 4px;
+}

@@ -70,5 +70,8 @@
   <modules>
     <module>mvnspring-portlet</module>
     <module>lf-poc-theme</module>
+    <module>cignex-neighbourhood-theme</module>
+    <module>lf-ec-df-theme</module>
+    <module>lf-ec-sp-theme</module>
   </modules>
 </project>

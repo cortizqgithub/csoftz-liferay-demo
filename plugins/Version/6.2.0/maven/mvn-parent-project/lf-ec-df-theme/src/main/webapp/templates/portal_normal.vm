@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+#parse ($init)
+<html class="$root_css_class" dir="#language ("lang.dir")" lang="$w3c_language_id">
+<head>
+	<title>$the_title - $company_name</title>
+	$theme.include($top_head_include)
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="$css_folder/ie7.css" media="screen" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="$css_folder/ie8.css" media="screen" /><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="$css_folder/ie9.css" media="screen" /><![endif]-->
+</head>
+<body class="$css_class">
+#if($is_signed_in)
+	#dockbar()
+#end
+<div id="wrapper">
+    <header id="banner" role="banner">
+		<img src="$images_folder/header/EC100A_logoElColombiano.gif" border="0"/>
+    </header>
+    <div id="content">
+        #if ($selectable)
+			$theme.include($content_include)
+		#else
+			$portletDisplay.recycle()
+			$portletDisplay.setTitle($the_title)
+			$theme.wrapPortlet("portlet.vm", $content_include)
+		#end
+    </div>
+    <footer id="footer" role="contentinfo">
+       #parse("$full_templates_path/include/footer.vm")
+    </footer>
+</div>
+#if(!$is_signed_in)
+	<a href="$sign_in_url" id="sign-in" rel="nofollow">$sign_in_text</a>
+#end
+$theme.include($bottom_include)
+</body>
+</html>

@@ -2,14 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-        <artifactId>mvn-parent-project</artifactId>
-        <groupId>com.csoftz.liferay.plugins</groupId>
-        <version>6.2.0-RELEASE</version>
-    </parent>
-    <groupId>com.csoftz.liferay.theme</groupId>
-	<artifactId>lf-poc-theme</artifactId>
+    <artifactId>mvn-parent-project</artifactId>
+    <groupId>com.csoftz.liferay.plugins</groupId>
+    <version>6.2.0-RELEASE</version>
+  </parent>
+	<groupId>com.csoftz.liferay.theme</groupId>
+	<artifactId>threezerogamma-theme</artifactId>
 	<packaging>war</packaging>
-	<name>Liferay Proof of Concpet (PoC) Theme</name>
+	<name>Three Zero Gamma Theme</name>
 	<version>6.2.0-RELEASE</version>
 	<build>
 		<plugins>
@@ -46,9 +46,9 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+	</build>	
 	<properties>
-		<liferay.theme.parent>classic</liferay.theme.parent>
+		<liferay.theme.parent>_styled</liferay.theme.parent>
 		<liferay.theme.type>vm</liferay.theme.type>
 	</properties>
 </project>

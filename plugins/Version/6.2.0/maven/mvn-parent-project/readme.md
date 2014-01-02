@@ -12,7 +12,10 @@ The scheme used is to have a parent maven project and added modules to each of t
 
 Modules included are
     - mvnspring-portlet: Includes two portlets using Spring Framework container (that is, Spring Framework is in charge of portlet logic).
-    - lf-poc-theme: An unstyled-liferay with custom design as a proof of concept.
+    - lf-poc-theme: A theme based in 'Liferay Classic' theme for V6.2 with custom design as a proof of concept.
+    - cignex-neighbourhood-theme: A theme based in 'Liferay Classic' theme for V6.2 with custom design as a proof of concept.
+    - lf-ec-df-theme: A theme based in 'Liferay Classic' theme for V6.2 with custom design as a proof of concept.
+    - lf-ec-sp-theme: A theme based in 'Liferay _Styled' (To make dockbar always at top) theme for V6.2 with custom design as a proof of concept.
     
 
 The following maven dependencies are client jars and to be used if required. If one of them is required, please set it up inside the module 

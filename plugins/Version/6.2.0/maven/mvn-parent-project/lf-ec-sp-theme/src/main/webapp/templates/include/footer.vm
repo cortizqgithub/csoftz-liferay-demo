@@ -1,0 +1,55 @@
+<div id="zonaPata">
+	<div id="EC100A_barra_mobile">
+		<div class="Contenedor_barra_mobile">
+			<div class="aplicativos_moviles">M&oacute;viles:</div>
+			<div class="iconos_moviles">
+				<div class="iphone">
+					<a target="_blank"
+						href="http://itunes.apple.com/us/app/periodico-el-colombiano/id400458589?mt=8"><img
+						border="0" alt="Iphone" src="$images_folder/footer/iphone.png"></a>
+				</div>
+				<div class="ipad">
+					<a target="_blank"
+						href="http://itunes.apple.com/us/app/periodico-colombiano-para/id497788228?l=es&amp;mt=8&amp;ls=1"><img
+						border="0" alt="Ipad" src="$images_folder/footer/ipad.png"></a>
+				</div>
+				<div class="android">
+					<a target="_blank"
+						href="https://market.android.com/details?id=com.protecmedia.newsApp&amp;feature=search_result"><img
+						border="0" alt="Android" src="$images_folder/footer/android.png"></a>
+				</div>
+				<div class="blacberry">
+					<a target="_blank"
+						href="http://appworld.blackberry.com/webstore/content/26495?lang=es"><img
+						border="0" alt="Blacberry" src="$images_folder/footer/bb.png"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="barra_ie9">
+		<div id="content_text"><span>Arrastre este &iacute;cono a su barra de tareas y mant&eacute;ngase informado.</span></div>
+		<div id="icono_logo">
+			<img border="0" title="S&oacute;lo para Internet Explorer 9" alt="Icono Escritorio" src="$images_folder/footer/logo.jpg" class="msPinSite" style="cursor: move;"><span><img border="0" alt="Icono Escritorio" src="$images_folder/footer/flecha.jpg"></span>
+		</div>
+	</div>
+	<div class="mapaDelSitio">		
+		<div class="pieDePagina">
+			<div class="creditos">
+				<p><strong>Copyright &copy; 2012 EL COLOMBIANO S.A. &amp; CIA. S.C.A.</strong>
+				   <a href="/BancoConocimiento/T/terminos_y_condiciones/terminos_y_condiciones.asp"	class="avisoLegal"> T&eacute;rminos y condiciones</a>|
+				   <a target="_blank" href="http://www.sic.gov.co/es">Superintendencia de Industria	y Comercio</a>
+				</p>
+				<p><strong>Nit: </strong>890901352-3 | <strong>Direcci&oacute;n:</strong>
+					Carrera 48 N&deg; 30 Sur - 119, Envigado - Antioquia, Colombia | <strong>Conmutador:</strong>
+					(57) (4) 3315252 | <strong>Bogot&aacute;:</strong> (57) (1) 4156764<br>
+					<strong>Fax: </strong> (57) (1) 4157508 | <strong>L&iacute;nea de atenci&oacute;n al cliente:</strong> (57) (4) 3393333
+				</p>
+			</div>
+			<ul>
+				<li><a target="_blank" href="http://www.iabcolombia.com/"><img border="0" id="iab" name="iab" alt="iab" src="$images_folder/footer/logoIab1.gif"></a></li>
+				<li><a target="_blank" href="http://www.peradigital.com/"><img border="0" id="pera" name="pera" alt="pera" src="$images_folder/footer/logoPera1.gif"></a></li>
+			</ul>
+			<div class="limpiar_pata"></div>
+		</div>
+	</div>
+</div>

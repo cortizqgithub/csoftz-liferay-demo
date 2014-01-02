@@ -6,10 +6,10 @@
         <groupId>com.csoftz.liferay.plugins</groupId>
         <version>6.2.0-RELEASE</version>
     </parent>
-    <groupId>com.csoftz.liferay.theme</groupId>
-	<artifactId>lf-poc-theme</artifactId>
+	<groupId>com.csoftz.liferay.theme</groupId>
+	<artifactId>cignex-neighbourhood-theme</artifactId>
 	<packaging>war</packaging>
-	<name>Liferay Proof of Concpet (PoC) Theme</name>
+	<name>Cignex Neighbourhood Theme</name>
 	<version>6.2.0-RELEASE</version>
 	<build>
 		<plugins>

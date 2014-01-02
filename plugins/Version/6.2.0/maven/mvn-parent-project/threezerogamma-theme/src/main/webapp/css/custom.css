@@ -1,0 +1,1 @@
+@import url(include/base.css);/* Override parent design rules (should be last in file) */.aui {    font-size: 12px;}.aui body {	font-size: 12pt;	line-height: 2em;	font-family: Tahoma, sans-serif;	background: #f2f2f2 url('../../images/bg.png');	color: #3d3d3d;}.aui a{    color: #AA3C3C;	text-decoration: underline;}.aui a:hover {	text-decoration: none;}

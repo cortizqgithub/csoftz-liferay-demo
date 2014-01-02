@@ -1,0 +1,34 @@
+@import url(include/base.css);
+@import url(include/header.css);
+@import url(include/footer.css);
+@import url(include/generic.css);
+
+/* ---------- General ---------- */
+.limpiar {
+	clear: both;
+	font-size: 1px;
+	height: 0;
+	line-height: 0;
+}
+
+.limpiar_pata {
+	clear: both;
+	font-size: 1px;
+	height: 30px;
+	line-height: 0;
+}
+
+.limpiarSolo {
+	clear: both;
+}
+
+/* ---------- Wrapper ---------- */
+#wrapper {
+	background-color: #fff;
+	margin: -4px auto 0;
+	text-align: left;
+	width: 980px;
+}
+
+/* Override parent design rules (should be last in file) */
+.aui body {}

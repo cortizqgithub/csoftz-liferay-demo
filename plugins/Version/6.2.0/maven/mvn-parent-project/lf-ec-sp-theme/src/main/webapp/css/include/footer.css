@@ -1,0 +1,166 @@
+/* Barra Zona Pata */
+#EC100A_barra_mobile {
+	float: left;
+	margin: 0 2px 0 0;
+}
+
+#EC100A_barra_mobile  .Contenedor_barra_mobile {
+	height: 23px;
+	width: 550px;
+	padding: 8px 0 5px 95px;
+	float: left;
+	background: #626363;
+	background: -moz-linear-gradient(top, #6b6b6b, #555555);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6b6b6b),
+		to(#555555) );
+}
+
+#EC100A_barra_mobile .aplicativos_moviles {
+	float: left;
+	font-size: 1.2em;
+	color: #FFF;
+	margin: 0 20px 0 0;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#EC100A_barra_mobile .iconos_moviles {
+	float: left;
+	width: 375px;
+}
+
+#EC100A_barra_mobile .iphone {
+	float: left;
+	width: 20%;
+}
+
+#EC100A_barra_mobile .ipad {
+	float: left;
+	width: 23%;
+}
+
+#EC100A_barra_mobile .android {
+	float: left;
+	width: 27%;
+}
+
+#EC100A_barra_mobile .blacberry {
+	float: left;
+	width: 30%;
+}
+
+#EC100A_barra_mobile .iphone img {
+	margin: -6px 0 0 0;
+}
+
+#EC100A_barra_mobile .ipad img {
+	margin: -6px 0 0 0;
+}
+
+#EC100A_barra_mobile .android img {
+	margin: -6px 0 0 0;
+}
+
+#EC100A_barra_mobile .blacberry img {
+	margin: -6px 0 0 0;
+}
+
+#barra_ie9 {
+	background: url(../../images/back.jpg) repeat-x center top;
+	padding: 0 10px 0 15px;
+	width: 308px;
+	height: 36px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	float: left;
+}
+
+#content_text {
+	float: left;
+	width: 75%;
+}
+
+#content_text span {
+	float: left;
+	margin: 5px 10px;
+	font-size: 12px;
+	color: #FFF;
+	line-height: 12px;
+}
+
+#icono_logo {
+	float: left;
+	width: 25%;
+	margin: 3px 0;
+}
+
+#icono_logo span {
+	margin: 0 0 0 10px;
+}
+
+/****** ZONA PATA: MAPA DEL SITIO ******/
+#zonaPata {
+	margin: 0;
+}
+
+.mapaDelSitio {
+	border-top: 1px solid #ccc;
+	padding: 35px 0px 0px 0px;
+}
+
+.mapaDelSitio a {
+	color: #666;
+	text-decoration: none;
+}
+
+.mapaDelSitio a:hover {
+	color: #666;
+	text-decoration: underline;
+}
+
+.mapaDelSitio .columnaLista2 {
+	margin: 10px 0 10px;
+	min-height: 115px;
+}
+
+.mapaDelSitio .columnaLista2 ul {
+	list-style: none;
+}
+
+.mapaDelSitio .columnaLista2 ul li {
+	font-size: 1em;
+	line-height: 18px;
+	color: #333;
+}
+
+.mapaDelSitio .columnaLista2 ul li strong {
+	font-size: 1em;
+	color: #333;
+}
+
+/****** ZONA PATA: PIE DE PÁGINA ******/
+.pieDePagina {
+	padding: 10px 0;
+}
+
+.pieDePagina p {
+	margin-bottom: 5px;
+	color: #666;
+}
+
+.pieDePagina p  strong {
+	color: #000;
+}
+
+.pieDePagina .avisoLegal {
+	margin: 0 0 0 10px;
+}
+
+.pieDePagina ul {
+	float: right;
+	list-style: none;
+	margin: -35px 0;
+}
+
+.pieDePagina ul li {
+	display: inline;
+	margin-left: 8px;
+}

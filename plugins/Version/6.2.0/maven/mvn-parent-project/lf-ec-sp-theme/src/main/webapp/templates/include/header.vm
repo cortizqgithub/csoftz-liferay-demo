@@ -1,0 +1,24 @@
+<div id="EC100A-contentgeneral-header-especiales">
+  <div class="header-especiales">
+    <div id="vovler-home"><a target="_self" href="/"><img border="0" alt="" src="$images_folder/header/home.png"></a></div>
+    <div class="logo"><img border="" alt="" src="$images_folder/header/logo-elcolombiano.png"></div>
+    <div class="titulo-especial">
+      <p class="titulo1">Especiales El Colombiano</p>
+      <p class="titulo2">$the_title</p>
+    </div>
+    <div class="redes-sociales">
+      <div class="redes">
+        <span>Siguenos:</span>
+        <a href="https://www.facebook.com/ElColombiano" target="_blank"><img width="21" height="22" border="0" alt="Facebook" src="$images_folder/header/facebook.png"></a>
+        <a href="https://twitter.com/elcolombiano" target="_blank"><img width="21" height="22" border="0" alt="Twitter" src="$images_folder/header/twitter.png"></a>
+        <a href="http://www.youtube.com/user/ELCOLOMBIANOTeVe" target="_blank"><img width="21" height="22" border="0" alt="Youtube" src="$images_folder/header/youtube.png"></a>
+        <a href="http://www.flickr.com/photos/periodicoelcolombiano" target="_blank"><img width="21" height="22" border="0" alt="Flickr" src="$images_folder/header/flikr.png"></a>
+        <a href="https://plus.google.com/106951694247739092247/posts" target="_blank"><img width="21" height="22" border="0" alt="Google+" src="$images_folder/header/google.png"></a>
+      </div>
+      <div class="redes-footer">
+        <img width="222" height="9" src="$images_folder/header/bg-social-footer.png">
+      </div>
+    </div>
+  </div>
+</div>
+<div id="SecEspecialesEspacio"></div>

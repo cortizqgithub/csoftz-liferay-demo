@@ -1,0 +1,159 @@
+<div id="zonaPata">
+	<div id="EC100A_barra_mobile">
+		<div class="Contenedor_barra_mobile">
+			<div class="aplicativos_moviles">M&oacute;viles:</div>
+			<div class="iconos_moviles">
+				<div class="iphone">
+					<a target="_blank"
+						href="http://itunes.apple.com/us/app/periodico-el-colombiano/id400458589?mt=8"><img
+						border="0" alt="Iphone" src="$images_folder/footer/iphone.png"></a>
+				</div>
+				<div class="ipad">
+					<a target="_blank"
+						href="http://itunes.apple.com/us/app/periodico-colombiano-para/id497788228?l=es&amp;mt=8&amp;ls=1"><img
+						border="0" alt="Ipad" src="$images_folder/footer/ipad.png"></a>
+				</div>
+				<div class="android">
+					<a target="_blank"
+						href="https://market.android.com/details?id=com.protecmedia.newsApp&amp;feature=search_result"><img
+						border="0" alt="Android" src="$images_folder/footer/android.png"></a>
+				</div>
+				<div class="blacberry">
+					<a target="_blank"
+						href="http://appworld.blackberry.com/webstore/content/26495?lang=es"><img
+						border="0" alt="Blacberry" src="$images_folder/footer/bb.png"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="barra_ie9">
+		<div id="content_text"><span>Arrastre este &iacute;cono a su barra de tareas y mant&eacute;ngase informado.</span></div>
+		<div id="icono_logo">
+			<img border="0" title="S&oacute;lo para Internet Explorer 9" alt="Icono Escritorio" src="$images_folder/footer/logo.jpg" class="msPinSite" style="cursor: move;"><span><img border="0" alt="Icono Escritorio" src="$images_folder/footer/flecha.jpg"></span>
+		</div>
+	</div>
+	<div class="mapaDelSitio">
+		<div class="contenedorListas">
+			<div class="columnaLista2">
+				<ul>
+					<li><strong>Inicio:</strong>
+					    <a href="/dummy2">Lo &uacute;ltimo,</a>
+						<a href="/versiones/comentado.asp">Lo + comentado,</a>
+						<a href="/versiones/leido.asp">Lo + le&iacute;do,</a>
+						<a href="/versiones/votado.asp">Lo + votado,</a>
+						<a href="/historico/ediciones-anteriores.asp">Ediciones	Anteriores EL COLOMBIANO,</a>
+						<a href="/movil/index.asp">Versi&oacute;n m&oacute;vil</a>
+					</li>
+					<li><strong>Actualidad:</strong>
+					    <a href="/antioquia.asp">Antioquia,</a>
+					    <a href="/colombia.asp">Colombia,</a>
+					    <a href="/colombia.asp">Competitividad,</a>
+						<a href="/conflicto.asp">Conflicto armado,</a>
+						<a href="/economia.asp">Econom&iacute;a,</a>
+						<a href="/educacion.asp">Educaci&oacute;n,</a>
+						<a href="/internacional.asp">Internacional,</a>
+						<a href="/informes-comerciales.asp">Informes Comerciales, </a>
+						<a href="/ambiente.asp">Medio ambiente,</a>
+						<a href="/politica.asp">Pol&iacute;tica,</a>
+						<a href="/salud.asp">Salud</a> 
+						<!--<a href="#">, Informes Comerciales</a>-->
+					</li>
+					<li><strong>Tendencias:</strong>
+					    <a href="/astrologia.asp">Astrolog&iacute;a,</a>
+						<a href="/ciencia.asp">Ciencia,</a>
+						<a href="/cine.asp">Cine,</a> 
+						<a href="/crucigrama.asp">Crucigrama,</a>
+						<a href="/espacios.asp">Espacios,</a>
+						<a href="/farandula.asp">Far&aacute;ndula</a>
+						<a href="/motores.asp">Motores,</a>
+						<a href="/sudoku.asp">Sudoku,</a>
+						<a href="/tecnologia.asp">Tecnolog&iacute;a,</a>
+						<a href="/television.asp">Televisi&oacute;n,</a>
+						<a href="/turismo.asp">Turismo,</a>
+						<a href="/vida-y-cultura.asp">Vida y cultura</a>
+					</li>
+					<li><strong>Opini&oacute;n:</strong>
+					    <a href="/opinion.asp">Opini&oacute;n,</a>
+					    <a href="/bancoconocimiento/c/caricaturas2012/caricaturas2012.asp">Caricaturas,</a>
+						<a target="_blank" href="http://www.ecbloguer.com/defensordellector">Defensor del lector</a>
+					</li>
+					<li><strong>Deportes:</strong>
+					    <a href="/copa-libertadores-2012.asp">Copa Libertadores,</a>
+					    <a href="/eliminatorias-brasil-2014.asp">Eliminatorias Brasil,</a>
+					    <a href="/eurocopa-2012.asp">Eurocopa 2012,</a>
+					    <a href="/futbol.asp">F&uacute;tbol,</a>
+						<a href="/formula-uno.asp">F&oacute;rmula uno,</a>
+						<a href="/otrosdeportes.asp">Otros Deportes</a></li>
+					<li><strong>Zona C:</strong>
+					    <a href="/blogs.asp">Blogs,</a>
+					    <a href="/formularios/zonac/formulariozonac.asp">&iexcl;Env&iacute;a noticas!,</a>
+					    <a target="_blank" href="http://malala.elcolombiano.com/">Malala va a tu barrio,</a>
+						<a href="/zona-c-noticias-de-lectores.asp">Noticias de lectores,</a>
+						<a href="/zona-c-twittercronica.asp">Twittercr&oacute;nica,</a>
+						<a href="/zona-c-temas-populares.asp">Temas	populares,</a>
+						<a href="/BancoConocimiento/Z/zona_c_la_comunidad_de_lectores/zona_c_la_comunidad_de_lectores.asp">Sobre nosotros</a>
+					</li>
+					<li><strong>Multimedia</strong>
+					    <a href="/gaudio.asp">Audios, </a>
+					    <a href="/galerias.asp">Im&aacute;genes, </a>
+					    <a href="/graficos.asp">Infograf&iacute;as, </a>
+						<a href="/gvideo.asp">Videos, </a>
+					</li>
+					<li><strong>Clasificados:</strong>
+					    <a href="http://clasificados.elcolombiano.com/">Avisos clasificados EL COLOMBIANO,</a>
+					    <a href="/clasicweb/">Compra aqu&iacute; tu	aviso clasificado,</a>
+					    <a href="/movil/clasificados.asp">Clasificados en tu celular,</a>
+					    <a href="/revista-propiedades.asp">Revista Propiedades</a>
+					</li>
+					<li><strong>Servicios:</strong>
+					    <a href="/utilidades/canalRss.asp">Canal RSS,</a>
+					    <a href="/BancoConocimiento/L/loterias/loterias.asp">Loter&iacute;as,</a>
+						<a target="_blank" href="/suscriptores.asp">Suscriptores EL COLOMBIANO,</a>
+						<a href="/circulacion/puntos.asp">Centros de atenci&oacute;n al cliente,</a>
+						<a target="_blank" href="/suscriptores.asp">Club de suscriptores Intelecto,</a>
+						<a href="/movil/cines.asp">Cines en su celular,</a>
+						<a target="_blank" href="http://www.newspaperdirect.com/">EL COLOMBIANO en el exterior,</a>
+						<!--<a href="http://www.puntodecompras.com/t_intelecto/default.asp">Punto de compras,</a>-->
+						<a target="_blank" href="http://www.ecbloguer.com/mediakit/">Sitio de anunciantes,</a>
+						<a href="/titulares.asp">Suscr&iacute;base a los titulares</a>
+					</li>
+					<li><strong>Corporativo:</strong>
+					    <a href="/quienes-somos.asp">Qui&eacute;nes somos,</a>
+					    <a target="_blank" href="http://www.ecbloguer.com/globalnewsroom/">Colombian headlines,</a>
+					    <a href="http://www.elcolombianoejemplar.org/">EL COLOMBIANO Ejemplar,</a>
+					    <a href="/clasico-2011.asp">Cl&aacute;sico EL COLOMBIANO</a>
+					</li>
+					<li><strong>Publicaciones:</strong>
+					    <a target="_blank" href="http://www.gente.com.co">Gente,</a>
+					    <a target="_blank" href="http://www.qhubo.com/">Q'Hubo,</a>
+					    <a target="_blank" href="/epaper/">Revistas</a>
+					</li>
+					<li><strong>Utilidades:</strong>
+					    <a href="/movil/index.asp">Aplicativos m&oacute;viles,</a>
+					    <a href="http://contactenos.elcolombiano.com/">Cont&aacute;ctenos,</a>
+						<a href="/utilidades/faq.asp">FAQ,</a>
+						<a href="/utilidades/mapadelsitio.asp">Mapa del sitio</a></li>
+				</ul>
+			</div>
+			<div class="limpiar"></div>
+		</div>
+		<div class="pieDePagina">
+			<div class="creditos">
+				<p><strong>Copyright &copy; 2012-2014 EL COLOMBIANO S.A. &amp; CIA. S.C.A.</strong>
+				   <a href="/BancoConocimiento/T/terminos_y_condiciones/terminos_y_condiciones.asp"	class="avisoLegal"> T&eacute;rminos y condiciones</a>|
+				   <a target="_blank" href="http://www.sic.gov.co/es">Superintendencia de Industria	y Comercio</a>
+				</p>
+				<p><strong>Nit: </strong>890901352-3 | <strong>Direcci&oacute;n:</strong>
+					Carrera 48 N&deg; 30 Sur - 119, Envigado - Antioquia, Colombia | <strong>Conmutador:</strong>
+					(57) (4) 3315252 | <strong>Bogot&aacute;:</strong> (57) (1) 4156764<br>
+					<strong>Fax: </strong> (57) (1) 4157508 | <strong>L&iacute;nea de atenci&oacute;n al cliente:</strong> (57) (4) 3393333
+				</p>
+			</div>
+			<ul>
+				<li><a target="_blank" href="http://www.iabcolombia.com/"><img border="0" id="iab" name="iab" alt="iab" src="$images_folder/footer/logoIab1.gif"></a></li>
+				<li><a target="_blank" href="http://www.peradigital.com/"><img border="0" id="pera" name="pera" alt="pera" src="$images_folder/footer/logoPera1.gif"></a></li>
+			</ul>
+			<div class="limpiar_pata"></div>
+		</div>
+	</div>
+</div>
