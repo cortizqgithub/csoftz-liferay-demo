@@ -14,7 +14,9 @@
     <properties>
         <junit.version>4.11</junit.version>
         <lombok.version>1.12.2</lombok.version>
-        <joda-time.version>2.3</joda-time.version>
+        <joda-time.version>2.3</joda-time.version>               
+        <org.springframework.version>4.0.0.RELEASE</org.springframework.version>
+        <org.slf4j-version>1.5.10</org.slf4j-version>
     </properties>
 	<build>
 		<plugins>
